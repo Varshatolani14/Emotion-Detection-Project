@@ -1,4 +1,6 @@
 # Emotion-Detection-Project
+##In above uploaded folders, due to storage issues i couldn't upload train folder .Pls follow below for same.
+
 The training dataset is hosted on Roboflow. Use the link below to download it:
 [Download Train Dataset]: **https://app.roboflow.com/ds/9n8Bl7FMoW?key=L63ZAAljkf**
 
