@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 13
+names: ['Convinsing', 'Emotional', 'Thinking', 'angry', 'boy', 'confused', 'fear', 'frustrated', 'happy', 'neutral', 'sad', 'satisfied', 'stress']
+
+roboflow:
+  workspace: varsha-tolani-griwn
+  project: emotional-detection-gemyb
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/varsha-tolani-griwn/emotional-detection-gemyb/dataset/1
