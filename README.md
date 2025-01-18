@@ -9,3 +9,4 @@ View project at **https://wandb.ai/varsha14tolani-b-m-s-college-of-engineering/Y
 View run at **https://wandb.ai/varsha14tolani-b-m-s-college-of-engineering/YOLOR/runs/uc3sifqm**
 
 collab file:  **https://colab.research.google.com/drive/1xO4CsvGD_UR4Zlx1ti5xqVaNihCL2_pQ#scrollTo=2emFlYj97zRb**
+VIDEO DEMO : **https://drive.google.com/file/d/1ekd3_HAW8jtrImJpTu-GDFIgk4UVbzOG/view?usp=drive_link**
